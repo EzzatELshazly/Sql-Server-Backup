@@ -94,6 +94,7 @@ sudo cp ./azcopy_linux_amd64*/azcopy /usr/bin/
 ``` bash
 azcopy --version
 ```
+<img width="700" height="52" alt="image" src="https://github.com/user-attachments/assets/e490cb96-8bb4-47d8-b455-6870b6b3eeb7" />
 
 ------------------------------------------------------------------------
 
@@ -181,9 +182,12 @@ sudo crontab -l
 ``` bash
 cat /var/log/sqlbackup.log
 ```
+<img width="977" height="517" alt="image" src="https://github.com/user-attachments/assets/515db314-5178-45fa-909b-cd733fe90f5f" />
 
 -   Verify `.bak` files in `/var/opt/mssql/backups`
 -   Verify uploads in **Azure Blob Storage**.
+  
+<img width="1468" height="712" alt="image" src="https://github.com/user-attachments/assets/c802bd7e-6a19-4d0e-9b0f-1ca036dd00da" />
 
 ------------------------------------------------------------------------
 
