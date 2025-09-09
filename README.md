@@ -45,7 +45,9 @@ sudo /opt/mssql/bin/mssql-conf setup
 ``` bash
 systemctl status mssql-server
 ```
-
+> [!NOTE]
+> Express is a free and limited version.
+ 
 ------------------------------------------------------------------------
 
 ## Step 2: Install SQLCMD Tools
