@@ -1,4 +1,5 @@
-# SQL Server Automated Backup to Azure Blob Storage (Ubuntu)
+# Install SQL Server in Ubuntu machine with Automated Backup to Azure Blob Storage.
+
 
 ## Overview
 
